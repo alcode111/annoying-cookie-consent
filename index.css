@@ -130,3 +130,40 @@ main {
 .modal-btns-reverse {
     flex-direction: row-reverse;
 }
+
+/* modal input */
+
+input {
+    margin-top: 10px;
+    border: 1px solid #212529;
+    padding:  10px;
+    width: 100%;
+    border-radius: 3px;
+}
+
+/* modal after submit */
+
+.loading {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.modal-display-name {
+    color: fuschia;
+}
+
+.modal-text {
+    height: 140px;
+    line-height: 23px;
+    margin-bottom: 0;
+}
+
+.idiot-gif {
+    width: 95%;
+    margin: 0 auto;
+}
+
+.idiot-git img {
+    box-shadow: 1px 1px 3px #999;
+    border-radius: 5px;
+}
