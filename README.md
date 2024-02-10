@@ -1,1 +1,1 @@
-# annoying-cookie-consent
+This project will showcase a few elements we have learned. First, we will be creating a modal. With javascript we will add some interactivity to it: mostly a few tricks to make that modal appear after a short time, make it persistent, impossible to be closed without having to give your personal information.
