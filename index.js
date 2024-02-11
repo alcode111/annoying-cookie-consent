@@ -38,5 +38,6 @@ consentForm.addEventListener('submit', function(e) {
             <img src="images/pirate.gif">
         </div>
         ` 
+        closeBtn.disabled = false
     }, 3000)
 })
